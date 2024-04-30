@@ -4,5 +4,3 @@ Add your text files to the texts folder.
 Run text_processing.py.
 Run text_reading.py
 
-Current known bugs:
-1. after reading for while it may stop. I dunno why. (if i did id fix it lol)
